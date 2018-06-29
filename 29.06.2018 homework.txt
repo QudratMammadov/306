@@ -1,0 +1,11 @@
+proqlashdirma 4 platformadan ibaretdir.bunlar 1.desktop  2.Web 3.Mobile 4 embed.
+bu platformalara proqlashdirma dillerinden istifade olunur.
+bunlar C,C++,CH(++++)php,python,ruby,objective c,java,SQL,ASP.NET,html,css,javascript.
+web platformalarda proqlashdirma 2 hisseden ibaretdir:frontend ve backend.
+frontend-de html,css ve javascript  proqlamlashdirma dillerinden istifade olunur.backend-de
+C,CH,C++,JAVA,ASP.NET,SQL,PHP ve s. istifade olunur.
+windows,linux,unix emeliyyat sistemleri C proqlamlashdirma dilinde yazilmishdir buna gore de en guclu 
+proqramlashdirma dilidir.C komeyile bir chox proqramlashdirma dilleri yazilmishdir,bunlardan C++ Objective C, 
+Java, Javascript, Php,perl ve s. gostere bilerik.
+proqlashma dillerinin oz paradigmalari vardir.paradigmalar yazilish uslubuna ve dizaynina gore 4 yere bolunur:
+1.Imperativ(emredici) 2.Funksional(riyazi hesablamar) 3.logical(mentiqi) 4 Objective Oriented(obyekt yonumnlu proqramlashdirma)
